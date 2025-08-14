@@ -11,8 +11,8 @@ github_repo: "https://github.com/JerryLiangzh/JerryLiangzh.github.io.git" # you 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "What doesn't kill me makes me stronger."
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "May this journey lead us starward."
+sidebar-avatar: /img/about-JerryLiangzh-realperson.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
