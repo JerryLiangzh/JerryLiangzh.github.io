@@ -7,7 +7,7 @@ description: "Per aspera, ad astra."
 keyword: "Adihan, Adihan Blog, Jerry的博客"
 url: "http://JerryLiangzh.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/JerryLiangzh/JerryLiangzh.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,7 +18,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     Fail_Better
+weibo_username:     Fail_Better
 zhihu_username:     旋光异构
 github_username:    JerryLiangzh
 #facebook_username:  baiying.qiu.7
